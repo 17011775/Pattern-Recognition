@@ -117,10 +117,10 @@ for Recognizing Natural Scene Categories](https://inc.ucsd.edu/~marni/Igert/Laze
 #### BOVW
 
 | Level | codebook_size | step_size | img_size | histogram_intersection | scaler |accuracy |
-|:--------: |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+|:--------: |:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
 | 0 | 200 | 8 | 256x256 | - | O | 0.37529|
 | 0 | 600 | 8 | 256x256 | - | O | 0.40543|
-| 2 | 600 | 8 | 256x256 | - | O | 0.58037 |
+| 2 | 600 | 8 | 256x256 | - | O | 0.58037|
 
 
 
